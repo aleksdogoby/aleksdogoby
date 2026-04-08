@@ -6,7 +6,7 @@
 ![dog blinkie 1](https://github.com/user-attachments/assets/fb16ca8d-7b9d-4c31-8d18-bb4ccda974aa)
 ![weird blinkie](https://github.com/user-attachments/assets/c38d2a5c-a49e-48b2-96f9-3577ae81a35a)
 ![i love guns blinkie](https://github.com/user-attachments/assets/0746908d-8348-4e82-bf46-6b7b186e435c)
-![marseyy](https://github.com/user-attachments/assets/86edf462-953c-4613-aafc-59ed9fcc402b)
+
 
 
 
