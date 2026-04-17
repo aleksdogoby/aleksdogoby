@@ -15,11 +15,7 @@
 
 
 
-<img width="97" height="57" alt="kmfdm stamp" src="https://github.com/user-attachments/assets/767f3df7-29c1-49a4-a15c-8242085958e4" />
-<img width="97" height="57" alt="missconstructionstamp" src="https://github.com/user-attachments/assets/0a6dbd3c-7b33-4a68-a1a6-9bc501b62cd1" />
-<img width="99" height="56" alt="nin stamp" src="https://github.com/user-attachments/assets/d79d895d-8b36-41f5-8dd1-aad7020dee10" />
-<img width="99" height="57" alt="chemlab stamp" src="https://github.com/user-attachments/assets/3405ee8e-d167-4d43-94f9-995c156f0999" />
-<img width="99" height="56" alt="msi stamp" src="https://github.com/user-attachments/assets/9ce76214-8074-431c-9608-2ac6201d6bae" />
+<img width="97" height="57" alt="kmfdm stamp" src="https://github.com/user-attachments/assets/767f3df7-29c1-49a4-a15c-8242085958e4" /><img width="97" height="57" alt="missconstructionstamp" src="https://github.com/user-attachments/assets/0a6dbd3c-7b33-4a68-a1a6-9bc501b62cd1" /><img width="99" height="56" alt="nin stamp" src="https://github.com/user-attachments/assets/d79d895d-8b36-41f5-8dd1-aad7020dee10" /><img width="99" height="57" alt="chemlab stamp" src="https://github.com/user-attachments/assets/3405ee8e-d167-4d43-94f9-995c156f0999" /><img width="99" height="56" alt="msi stamp" src="https://github.com/user-attachments/assets/9ce76214-8074-431c-9608-2ac6201d6bae" />
 
 
 <img width="2048" height="145" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f61343737626430343863643538623466373635393430383766303962306566382f623434376134333431386264343333622d35312f733230343878333037322f326264376535323137393830356239663638313838613930396" src="https://github.com/user-attachments/assets/2999248e-88cd-491e-a9d2-3b9babbbdf93" />
